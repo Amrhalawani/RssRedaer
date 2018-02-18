@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RssReader</string>
+    <string name="action_settings">Settings</string>
+    <string name="Select_Site">Select Site</string>
+
+    <string-array name="chooseSite">
+        <item>http://www.fifa.com/rss/index.xml</item>
+        <item>https://www.fifa.com/rss/index.xml</item>
+        <item>feeds.bbci.co.uk/sport/football/rss.xml</item>
+        <item>google.com</item>
+        <item>http://rss.cnn.com/rss/edition_world.rss</item>
+        <item>http://feeds.feedburner.com/ndtvprofit-latest</item>
+        <item>http://www.fifa.com/news/popular/rss.xml</item>
+        <item>http://feeds.foxnews.com/foxnews/sports</item>
+    </string-array>
+
+</resources>
